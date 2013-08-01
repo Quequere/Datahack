@@ -12,9 +12,7 @@ por Desenvolvedores e definidos por Designers.
 
 ## Jogo
 
-Comece o jogo sorteando 8 bytes (4 na versão curta): seqüências de 8 dígitos 0
-ou 1. Use moedas ou dados (resultado par = 0, resultado impar = 1) para esse
-sorteio e anote os Bytes sorteados: eles são o Objetivo Comum do jogo. Toda
+Comece o jogo sorteando 8 projetos que deverão ser desenvolvidos por todos. Cada projeto é representado por uma sequência de bits que forma um byte: esses 8 bytes são o Objetivo Comum do jogo. Toda
 equipe que compuser um desses Bytes ganha 2 pontos. Mas se eles não forem todos
 produzidos até a vigésima rodada (décima, na versão curta), todas as equipes
 perdem!
@@ -123,3 +121,13 @@ cima.
 Algumas cartas afetam a chegada da LAI, adiantando ou adiando o turno em que ela
 entra em jogo. Para deixar isso visível, usa-se um marcador da LAI sobre o
 tabuleiro de rodadas.
+
+## Badges
+
+Os softwares, projetos e eventos possuem alguns badges para indicar sua natureza ou autor:
+
+PSOCIAL: Projetos ou softwares de participação social desenvolvidos ou promovidos pelo governo
+
+OPENDATA: Projetos ou softwares baseados em dados abertos
+
+...<possível pensar mais badges>...
